@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742528468482",
+    "project_id": "fir-wisatalb",
+    "storage_bucket": "fir-wisatalb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742528468482:android:48786c9d66d4b1c6f5091b",
+        "android_client_info": {
+          "package_name": "com.example.wisata_lembah_baliem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742528468482-ct67tl6niv1u6vdai8md6kvc79rk20l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Zt65Y4wAfT8ljUWPEv7Df_LJbW644pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742528468482-ct67tl6niv1u6vdai8md6kvc79rk20l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
